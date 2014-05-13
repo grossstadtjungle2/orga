@@ -2,8 +2,8 @@
 ##Status
 __aktuellster  zuerst__
 
-[*05.05.14*] Antwort erhalten
-[*03.05.14*] Proposal fertig und verschickt
+- [*05.05.14*] Antwort erhalten
+- [*03.05.14*] Proposal fertig und verschickt
 
 ##HowTo GitHub
 GitHub ist eigentlich sehr einfach mit dem Comand-Line Tool zu verwenden. Dabei gibt es zwei verschiedene Standartaufgaben die zu bewältigen sind.
