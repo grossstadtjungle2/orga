@@ -2,6 +2,7 @@
 ##Status
 __aktuellster  zuerst__
 
+- [*25.05.14*] Softwareteil für Konzept fertig
 - [*05.05.14*] Antwort erhalten
 - [*03.05.14*] Proposal fertig und verschickt
 
