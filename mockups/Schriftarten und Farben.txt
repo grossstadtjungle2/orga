@@ -1,0 +1,28 @@
+Farbschema:
+Hintergrund:  f0f0f0
+Helles Grau:  cccccc
+Dunkles Grau: 606060
+Rote "²" Box: ffffff
+
+Screen 1:
+"Großstadtjungle": Arial, fett, 26
+"²": Verdana, fett, 20
+"In der Altstadt": Droid Sans, regulär, 17
+
+Screen 2:
+"Kurzbeschreibung": Droid Sans, regulär, 14
+
+Screen 4 (ACHTUNG! andere Überschrift/Menüleiste):
+"Großstadtjungle": Arial, fett, 28
+"²": Verdana, fett, 22
+"Name des Rätsels": Droid Sans, regulär, 18
+"Ein wenig Info + Fragestellung...": : Droid Sans, regulär, 14
+"Antwort": Droid Sans, regulär, 18
+"Ich komm nicht drauf...": Droid Sans, regulär, 14
+
+Screen 5:
+"1. Tipp": Droid Sans, fett, 20
+"Text des Tipps...": Droid Sans, regulär, 14
+
+Screen 7:
+Bei der Fehlereldung einfach am Standard orientieren (ich hab da kein Plan :P)
