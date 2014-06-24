@@ -1,40 +1,60 @@
-Legende: F=Frage;A=Antwort;T=Tipp;
+Legende: F=Frage;A=Antwort;T=Tipp;I=Infos;
 
 P2 Mahnmal
-  Für jüdische Opfer des Nationalsozialismus wurde ein Mahnmal errichtet.
+  E:  P2 - Bei den Mannheimer Planken, der zentralen Einkaufsstraße Mannheims wurde
+  für jüdische Opfer des Nationalsozialismus ein Mahnmal errichtet.
   Auf diesem wurden in Spiegelschrift mehr als 2200 Opfer eingraviert.
-  F: Wie viele Seiten des Mahnmals wurden beschrieben
+  F: Wie viele Seiten des Mahnmals wurden mit Inschriften versehen?
   A: 4
   T: Das Mahnmal ist ein Kubus
+  I: Der Kubus, der vom Bildhauer Jochen Kitzbihler angefertigt wurde, ist schräg zum Paradeplatz
+     ausgerichtet und weist eine Kantenlänge von insgesamt 3 Metern auf. Eingeweiht wurde er am 
+     25. November 2003 eingeweiht.
 
 G1 Marktplatz
-  Der Götterbote Merkur, welcher auf dem Marktplatzbrunnen, sogar die Stadtgöttin Mannhemia(Mannheimia)
-  überragt hält in der einen Hand den Hermesstab.
-  F: Was hält er in der anderen Hand?
+  E: G1 - wie auch Paradeplatz und Schloss an der Kurpfalzstraße gelegen, ist der Mannheimer Marktplatz vorzufinden. Diesen schmückt der Marktplatzbrunnen.
+  Der Götterbote Merkur, welcher auf diesem Brunnen sogar die Stadtgöttin Mannhemia(Mannheimia)
+  überragt, hält in einer Hand den Hermesstab.
+  F:Was hält er in der anderen Hand?
   A: Eine Sonne
-  T: ...
+  T: Das Objekt den Stern, der in unserem Sonnensystem im Zentrum steht.
+  I: Der Namensgebung entsprechend ist der Marktplatz nach wie vor Veranstaltungsort für Mannheimer Wochenmärkte: Dienstag und Donnerstag 08:00 bis 14:00 Uhr bzw. Samstag 08:00 bis 15:00 Uhr. Ebenso kann man täglich Zeuge eines Glockenspiels des Glockenturms vor Ort werden: um 07:45 Uhr, 11:45 Uhr und 17:45 Uhr
+
   
 E6 Friedensengel
+  E: E6 - An den Mannheimer Planken und in der Nähe des Rathauses befindet sich die Skulptur des Friedensengels. Sie soll an Opfer des Regimes des 3. Reiches erinnern.
   F: Welcher Bundeskanzler weihte den Friedensengel 1952 ein?
   A: Konrad Adenauer
   T: Meist werden bedeutende Ereignisse fotographisch festgehalten
+  I: Konrad Adenauer selbst weihte das Mahnmal 1952 ursprünglich im Quadrat B4 ein. Erst 1983 versetzte man es zum heutigen Standort neben dem Rathaus.
   
 F2 Hauptsynagoge
+  E: F2 - In der Nähe der aktuellen Synagoge (F3) Mannheims und nicht weit vom Marktplatz entfernt befand sich die Hauptsynagoge der judischen Gemeinde.
   F: Welcher Art von Angriff zerstörte im Zweiten Weltkrieg neben Sprengladungen die Synagoge
   A: Ein Luftangriff
-  T: ...
+  T: Es war kein Bodenangriff...
+  I: Nach mehreren Vorgängerbauten wurde die hier beschriebene Synagoge in F2 zwischen 1851 und 1855 errichtet und nach der Machtergreifung der Nationalsozialisten, während der Novemberprogrome 1938 von SA-Männern erstmals die Einrichtung zerstört, Feuer gelegt und Sprengstoff gezündet bis die jüdische Gemeinde im darauffolgenden Jahr dazu gezwungen war sie an die Stadverwaltung zu "verkaufen".
   
 B3 Schillerplatz
-  F: Welches 1778 eröffnete Haus, das hier an diesem Ort stand, war ein Geschenk ded Kurfürsten Karl Theodors, nachdem er Bayern erbte?
+  E: B3 - Zwischen dem Mannheimer Schloss und dem Museum Zeughaus (in D5) befindet sich eine Grünanlage, benannt nach dem deutschen Dichter, Philosoph und Historiker: Friedrich Schiller. Ihm gilt auch eines der Denkmale vor Ort.
+  F: Welches 1778 eröffnete Haus, das hier an diesem Ort stand, war ein Geschenk des Kurfürsten Karl Theodors, nachdem er Bayern erbte?
   A: Das Nationaltheater
-  T: Vor Ort befindet sich eine Tafel, auf der die Lösung zu finden ist.
+  T: Das gesuchte Bauwerk war unter anderem dazu da, Stücke von Dichtern, wie z.B. Friedrich Schiller aufführen zu können. (Vor Ort befindet sich eine Tafel, auf der die Lösung zu finden ist.)
+  I: Im Jahr 1782 wurde an diesem Ort Friedrich Schillers "Die Räuber" uraufgeführt.
 
 Wasserturm
-  F: Blickt man mittig  auf der Aussichtsplattform des Wasserturms in Richtung der Augustanlage, ist eine Laterne zu sehen, deren Fuß scheinbar auf eine Skulptur zeigt - Welchen Titel trägt sie?
+  E: Am Ende der zentralen Einkauffstraße Mannheims in Richtung Südosten steht Wahrzeichen Mannheims: der Wasserturm. Dieser verfügt über eine "Aussichtsplattform". Blickt man mittig von dieser Aussichtsplattform aus in Richtung Augustanlage, ist eine Laterne zu sehen, deren Fuß hinter einer Skulptur fußt.
+  F: Welchen Titel trägt sie?
   A: Das Rad
   T: Der Bildhauer war Morice Lipsi (Tafel vor Ort)
+  I: Zwischen 1886 und 1889 wurde der 60 Meter hohe Turm (der Durchmesser liegt bei 19 Metern) nach Plänen von Gustav Halmhuber gebaut. Tatsächlich hatte er ursprünglich alle Funktionen der Trinkwasserversorgung zu erfüllen.
 
 Schloss Mannheim (Sternwarte uninteressant/umstaendlich zu erreichen)
-  F: Auf dem Schlossplatz sind zwei Skulpturen zu sehen (Karl Theodor und Karl Philipp). - Welches Gemeinsamkeit besteht zwischen der Skulptur Karl Theodors undeinem lokal populären Fußballclub des Stadtteils Waldhof?
+  E: Obwohl es selbst nicht in den Quadraten liegt sind diese zum Schloss hin ausgerichtet. Auf dem Schlossplatz sind zwei Denkmäler zu sehen (Karl Friedrich und Karl Ludwig).
+  F: Welches Gemeinsamkeit besteht zwischen der Skulptur Karl Friedrichs und einem lokal populären Fußballclub des Stadtteils Waldhof?
   A: Beide stammen aus dem Jahr 1907
-  T: Vergleich man die Inschriften auf der Rückseite beider Skulpturen, findet man bei Karl Theodor eine Jahreszahl mehr
+  T: Vergleicht man die Inschriften auf der Rückseite beider Skulpturen, findet man bei Karl Friedrich eine Jahreszahl mehr
+  I: Unter anderem beherbergt das Schloss Mannheim aktuell die Universitätsbibliothek, Seminarräume und Vorlesungssäle der Mannheimer Universität.
+
+
+
